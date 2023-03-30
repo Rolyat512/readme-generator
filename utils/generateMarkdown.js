@@ -60,12 +60,12 @@ If you created an application or package and would like other developers to cont
 ${data.test}
 
 ## Questions 
-
+If you need to reach me please contact me via github or my email!
 ${data.github}\n
 ${data.link}\n
 ${data.email}
 
-Go the extra mile and write tests for your application.`;
+`;
 
 
 
